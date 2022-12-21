@@ -7,5 +7,13 @@ public class HelloWorld {
 		System.out.println("HelloWorld");
 		
 		System.out.println("hi");
+		
+		System.out.println("day1 complete");
+		System.out.println("day2 complete");
+	
+	
+	
+	
+	
 	}
 }
